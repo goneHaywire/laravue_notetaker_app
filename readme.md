@@ -47,6 +47,3 @@ title/body
 PUT api/article
 article_id/title/body
 ```
-
-
-```
